@@ -8,7 +8,7 @@ Archivo README.md que contiene las instrucciones de ejecucion
 
 1. [DashBoard.html](/DashBoard.html) - Archivo principal del dashboard
 2. [Alum.csv](Alum.csv) - Archivo de datos CSV con información de alumnos
-3. [codigofuente.txt](codigo fuente.txt) - Archivo con el código fuente
+3. [codigofuente.txt](codigofuente.txt) - Archivo con el código fuente
 ## Gestión y Visualización de Datos del Alumno
 
 - 1.Como analista de datos, quiero crear un script que extraiga datos de calificaciones, asistencias y datos de alumnos desde archivos CSV, para unificar la información en una sola estructura.
