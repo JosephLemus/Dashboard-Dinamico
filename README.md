@@ -6,9 +6,9 @@ Archivo README.md que contiene las instrucciones de ejecucion
 
 ## Demo
 
-1. [DashBoard.html](/PF2.txt) - Archivo principal del dashboard
-2. [Alum.csv](Alum.csv) - Archivo de datos CSV con información de alumnos
-3. [codigofuente.txt](/PF2.txt) - Archivo con el código fuente
+1. [Dashboard](/DashDef.html) - Archivo principal del dashboard
+2. [Tabla alumnos](Alum.csv) - Archivo de datos CSV con información de alumnos
+3. [codigofuente](/PF2.txt) - Archivo con el código fuente
 ## Gestión y Visualización de Datos del Alumno
 
 - 1.Como analista de datos, quiero crear un script que extraiga datos de calificaciones, asistencias y datos de alumnos desde archivos CSV, para unificar la información en una sola estructura.
