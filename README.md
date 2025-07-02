@@ -6,9 +6,9 @@ Archivo README.md que contiene las instrucciones de ejecucion
 
 ## Demo
 
-[DashBoard](file:///D:/Downloads/DashBoard.html)
-[CSV](https://drive.google.com/drive/folders/1Sx_cTLvYi4ERbEOwUxkJpdiGBMOTcIcC)
-[Colab](https://colab.research.google.com/drive/1N43Xji0_RFnZfHvsQbbEUVi4YGD8ls7e)
+1. `DashBoard.html` - Archivo principal del dashboard
+2. `Alum.csv` - Archivo de datos CSV con información de alumnos
+3. `codigo fuente.txt` - Archivo con el código fuente
 ## Gestión y Visualización de Datos del Alumno
 
 - 1.Como analista de datos, quiero crear un script que extraiga datos de calificaciones, asistencias y datos de alumnos desde archivos CSV, para unificar la información en una sola estructura.
